@@ -14,7 +14,7 @@ export default function Logo() {
         style={{ borderRadius: '50%', marginRight: 5 }}
       />
       <a href='/' className='navbar-brand hide-xs' style={{color:'white'}}>
-        HmedBook
+        HmedMark
       </a>
     </div>
       <div className="hide-xl">
